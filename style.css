@@ -12,6 +12,7 @@ h1{
     margin:10px ;
     position:fixed;
     background-color: darkblue;
+    width: 100%;
 }
 body{
     background-image:url(./img/hd-wallpaper-g583a8044f_1920.jpg);
@@ -30,4 +31,8 @@ video:hover{
 
 h2{
     text-align: center;
+    margin-top: 50px;
+}
+a{
+    background-color: white;
 }
