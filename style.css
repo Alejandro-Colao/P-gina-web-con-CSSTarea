@@ -23,3 +23,6 @@ body{
 video:hover{
     width: 75%;
 }
+h1{
+position:fixed;
+}
