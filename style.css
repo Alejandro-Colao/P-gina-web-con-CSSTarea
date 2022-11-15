@@ -15,8 +15,11 @@ body{
 }
 body{
     color: white;
+    position: relative;
 }
 body{
     font-size: 22px;
 }
-video::shadow
+video:hover{
+    width: 75%;
+}
