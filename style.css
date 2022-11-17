@@ -52,12 +52,12 @@ a{
   }
   
   #menu a:link, #menu a:visited {
-    color: #ff0000;
+    color: lime;
     text-decoration: none;
   }
   
   #menu a:hover {
-    background-color: #336699;
+    background-color: darkred;
     color: #ffffff;
   }
 h5{
