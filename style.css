@@ -58,10 +58,10 @@ a{
   
   #menu a:hover {
     background-color: darkred;
-    color: #ffffff;
+    color: white;
   }
 h5{
-    background-color: #FFFFFF;
-    color: #000000;
+    background-color: white;
+    color: white;
     padding-top: 5px;
 }
