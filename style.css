@@ -13,7 +13,10 @@ h1{
     position:fixed;
     background-color: darkblue;
     width: 100%;
+    z-index: 1;
+    text-align: center;
 }
+
 body{
     background-image:url(./img/hd-wallpaper-g583a8044f_1920.jpg);
     
@@ -36,7 +39,10 @@ h2{
 a{
     background-color: white;
 }
-
+#menu{
+    position: absolute;
+    z-index: 2;
+}
 #menu p {
     margin:0px;
     padding:0px;
