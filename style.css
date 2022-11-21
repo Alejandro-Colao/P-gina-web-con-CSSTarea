@@ -84,3 +84,9 @@ a {
     font-size: 30px;
     
 }
+.lista p {
+    text-decoration: underline;
+}
+.lista ul {
+    list-style-type:none;
+}
